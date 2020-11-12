@@ -28,7 +28,7 @@ function OrphanageMap(){
         <aside>
           <header>
             <img src={mapMarkerImg} alt="happy"/>
-            <h2>Choose one ophernage in the map</h2>
+            <h2>Choose one orphanage in the map</h2>
             <p>Many kids are waiting for you :)</p>
           </header>
           <footer>
